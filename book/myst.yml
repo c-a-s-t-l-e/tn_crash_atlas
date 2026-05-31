@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 20fd8a2e-99ef-48ac-899c-447605b94df6
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/c-a-s-t-l-e/tn_crash_atlas
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
